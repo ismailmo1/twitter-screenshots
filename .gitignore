@@ -5,7 +5,8 @@
 *.webm
 
 #imgs
-*.png
+tweet_imgs_cropped
+test
 *.pickle
 ### Python ###
 # Byte-compiled / optimized / DLL files
